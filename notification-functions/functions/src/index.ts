@@ -45,3 +45,7 @@ exports.notification = functions.https.onRequest(app);
 // acceder sería notification/
 
 //firebase deploy --only functions
+
+
+//REVISAR ESTE TEMA
+// Compilar la aplicación
